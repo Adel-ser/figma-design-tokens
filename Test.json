@@ -1,0 +1,28 @@
+{
+  "Test": {
+    "Primary Color": {
+      "value": "#db4040",
+      "type": "color"
+    },
+    "Secondry Color": {
+      "value": "#393939",
+      "type": "color"
+    },
+    "Background Color": {
+      "value": "#fdfdfd",
+      "type": "color"
+    },
+    "Text Color": {
+      "value": "#000000",
+      "type": "color"
+    }
+  },
+  "global": {},
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Test",
+      "global"
+    ]
+  }
+}
